@@ -36,7 +36,7 @@
                 return "Triângulo Escaleno";
             }
         } else {
-            return "Não é possível formar um triângulo com os lados fornecidos.";
+            return "Não é possível formar um triângulo.";
         }
     }
 
